@@ -57,6 +57,16 @@
     :-------------------------:|:-------------------------:
     ![](./imgs/morgan_codes.png)   |  ![](./imgs/morgan_codes_dracula_dark_highlights.png)
 
+* Background + Current Line:
+    
+    ```bash
+    python src/cli.py --dracula-nonpro=Background,CurrentLine  ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/morgan_codes.png)   |  ![](./imgs/morgan_codes_dracula_bg_cr.png)
+
 
 ### [Dr. Manhattan on Mars](https://www.reddit.com/r/wallpapers/comments/jycuni/dr_manhattan_sitting_on_mars_1920x1080/)
 
@@ -65,6 +75,20 @@
     ```bash
     python src/cli.py --dracula-nonpro=Background,CurrentLine,Comment,Foreground ...
     ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/dr_m.png)   |  ![](./imgs/dr_m_dracula.png)
+
+* All colors:
+
+    ```bash
+    python src/cli.py --dracula-nonpro ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/dr_m.png)   |  ![](./imgs/dr_m_dracula_all.png)
 
 
 

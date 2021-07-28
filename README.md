@@ -75,6 +75,16 @@ Just a few examples of generated images using this palette; generate many more o
     :-------------------------:|:-------------------------:
     ![](./imgs/neon_shallows.png)   |  ![](./imgs/neon_shallows_dracula_dark.png)
 
+* BG + current line + cyan:
+
+    ```bash
+    python src/cli.py --dracula-nonpro=Background,CurrentLine,Cyan ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/neon_shallows.png)   |  ![](./imgs/neon_shallows_dracula_cyan.png)
+
 
 ### [Morgan Codes](https://www.reddit.com/r/MinimalWallpaper/comments/gbm5dk/morgan_codes_3840x2160/)
 

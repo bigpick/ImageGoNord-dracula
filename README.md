@@ -86,6 +86,39 @@ Just a few examples of generated images using this palette; generate many more o
     ![](./imgs/neon_shallows.png)   |  ![](./imgs/neon_shallows_dracula_cyan.png)
 
 
+### [Godzilla]()
+
+* All colors:
+
+    ```bash
+    python src/cli.py --dracula-nonpro ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/godzilla.png)   |  ![](./imgs/godzilla_dracula_all.png)
+
+* BG + cyan + purple + pink:
+
+    ```bash
+    python src/cli.py --dracula-nonpro=Background,Cyan,Purple,Pink ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/godzilla.png)   |  ![](./imgs/godzilla_dracula_cpp.png)
+
+* BG + current line + purple + pink + green + cyan
+
+    ```bash
+    python src/cli.py --dracula-nonpro=Background,CurrentLine,Purple,Pink,Green,Cyan ...
+    ```
+
+    Before                     |  After
+    :-------------------------:|:-------------------------:
+    ![](./imgs/godzilla.png)   |  ![](./imgs/godzilla_dracula_bcppgc.png)
+
+
 ### [Morgan Codes](https://www.reddit.com/r/MinimalWallpaper/comments/gbm5dk/morgan_codes_3840x2160/)
 
 * All colors:

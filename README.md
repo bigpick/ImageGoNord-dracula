@@ -10,7 +10,20 @@ This is a palette add-on for the [ImageGoNord](https://github.com/Schrodinger-Ha
 
 For now, one must manually copy the [`./palettes/dracula-nonpro`](./palettes/dracula-nonpro) folder into their local ImageGoNord's [palette](https://github.com/Schrodinger-Hat/ImageGoNord/tree/master/src/palettes) folder.
 
-* Current WIP [issue](https://github.com/Schrodinger-Hat/ImageGoNord/issues/45) that may make this process easier in the future.
+```
+tree ImageGoNord/src/palettes
+
+src/palettes
+├── Nord
+│   ├── ...
+│   └── ...
+└── dracula-nonpro
+    ├── Background.txt
+    ├── ...
+    └── Yellow.txt
+```
+
+    * Current WIP [issue](https://github.com/Schrodinger-Hat/ImageGoNord/issues/45) that may make this process easier in the future.
 
 Once the Dracula palette folder is copied, you can simply run the ImageGoNord tool, and specify the Dracula palette:
 

@@ -86,7 +86,7 @@ Just a few examples of generated images using this palette; generate many more o
     ![](./imgs/neon_shallows.png)   |  ![](./imgs/neon_shallows_dracula_cyan.png)
 
 
-### [Godzilla]()
+### [Godzilla](https://www.reddit.com/r/ImageGoNord/comments/n6dvek/3300x1856_my_current_wallpaper_and_for_godzilla/)
 
 * All colors:
 

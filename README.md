@@ -6,6 +6,32 @@ This is a palette add-on for the [ImageGoNord](https://github.com/Schrodinger-Ha
 
 ---
 
+## Usage
+
+For now, one must manually copy the [`./palettes/dracula-nonpro`](./palettes/dracula-nonpro) folder into their local ImageGoNord's [palette](https://github.com/Schrodinger-Hat/ImageGoNord/tree/master/src/palettes) folder.
+
+* Current WIP [issue](https://github.com/Schrodinger-Hat/ImageGoNord/issues/45) that may make this process easier in the future.
+
+Once the Dracula palette folder is copied, you can simply run the ImageGoNord tool, and specify the Dracula palette:
+
+```bash
+# all colors
+python src/cli.py --dracula-nonpro ...
+```
+
+Per standard ImageGoNord CLI args, you can further specify specific palette color options by adding on the names of specific groups in the palette to enable (by default, all are):
+
+
+```bash
+# "dark" colors
+python src/cli.py --dracula-nonpro=Background,CurrentLine,Comment,Foreground ...
+
+# background, green, pink
+python src/cli.py --dracula-nonpro=Background,Green,Pink ...
+
+# etc...
+```
+
 ## Examples
 
 Just a few examples of generated images using this palette; generate many more of your own using the appropriate CLI arguments of the ImageGoNord tool, and supplying your own source images.

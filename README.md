@@ -23,7 +23,7 @@ src/palettes
     └── Yellow.txt
 ```
 
-    * Current WIP [issue](https://github.com/Schrodinger-Hat/ImageGoNord/issues/45) that may make this process easier in the future.
+   * Current WIP [issue](https://github.com/Schrodinger-Hat/ImageGoNord/issues/45) that may make this process easier in the future.
 
 Once the Dracula palette folder is copied, you can simply run the ImageGoNord tool, and specify the Dracula palette:
 

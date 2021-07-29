@@ -45,6 +45,15 @@ python src/cli.py --dracula-nonpro=Background,Green,Pink ...
 # etc...
 ```
 
+### Note
+
+As of July 29th 2021, the ability to use additional palettes for the ImageGoNord tool exists only in the `hotfix/multiple-palettes-support` branch. Until that branch is merged in and part of a more recent release, you must checkout that branch locally and use the code from that branch.
+
+```bash
+cd ImageGoNord
+git checkout hotfix/multiple-palettes-support
+```
+
 ## Examples
 
 Just a few examples of generated images using this palette; generate many more of your own using the appropriate CLI arguments of the ImageGoNord tool, and supplying your own source images.

@@ -4,11 +4,10 @@
 
 ![Screenshot](./screenshot.png)
 
-Original image in top row, altered image on the bottom row (source credits in Github repo).
-
-This is a palette add-on for the [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) cli based on the [Dracula](https://github.com/dracula) dark theme colors.
+Original image in top row, altered image on the bottom row (source credits in Github repo); more examples in the INSTALL section.
 
 ## Install
+
 
 All instructions can be found at [draculatheme.com/imagegonord-dracula](https://draculatheme.com/imagegonord-dracula).
 

@@ -1,5 +1,7 @@
 ### [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord)
 
+This is a palette add-on for the [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) cli based on the [Dracula](https://github.com/dracula) dark theme colors.
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
